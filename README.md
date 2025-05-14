@@ -13,3 +13,10 @@ Delsy- Soy estudiante de Ingeniería Industrial con afinidad por áreas como con
 Hotel palmeras 
 ¨Disfrutaras de unas vacaciones al estilo tropical con vistas al mar, además dentro del hotel cuenta con una piscina con toboganes para disfrutar de ella, dispone de una zona de spa relajante y sauna de vapor que te hará sentir en las nubes, y por su puesto con un pequeño restaurante para que disfrutes de diferentes platillos y bebidas tropicales¨.
 ![image](https://github.com/user-attachments/assets/459b309d-b493-4c54-93de-b3842fbe23ef)
+
+4 Lisencia sotfware: ?
+
+5 Reporte de vision.
+Este software busca ayudar a un Hotel a gestionar de manera eficiente la administración de huéspedes, reservas, ingresos, salidas, cobros y reportes. 
+El programa tiene como objetivo facilitar el trabajo diario de los recepcionistas, reduciendo errores manuales y mejorando la organización de la información del hotel. 
+Si funciona correctamente, permitirá un control claro y ordenado de la operación del hotel las 24 horas del día, contribuyendo a una mejor atención al cliente y una administración más efectiva.
