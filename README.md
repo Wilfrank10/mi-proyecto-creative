@@ -79,3 +79,41 @@ Diccionarios para almacenar temporalmente la información de cada huésped, rese
 Listas de diccionarios para agrupar múltiples registros.
 DataFrames de pandas para leer y trabajar fácilmente con archivos `.csv`.
 Archivos de texto o CSV como almacenamiento permanente.
+
+7. Plan de proyecto: 
+(Realizado en Excel)
+
+8. Plan de versionado
+
+El control de versiones del proyecto “Hotel Palmeras” se ha llevado a cabo mediante el uso de Git y un repositorio en GitHub. Este sistema ha permitido mantener un historial detallado de los avances del desarrollo, la colaboración entre los integrantes y la trazabilidad del código fuente, almacenado en la carpeta src.
+ se describen las versiones más relevantes durante el proceso de desarrollo:
+ 
+Versión 1.0 – 1 de junio:
+Creación del repositorio en GitHub. Se definió la estructura del proyecto: carpetas src (código fuente), doc (documentación) y data (archivos CSV). Se subió el archivo principal del menú y se dejó el esqueleto del sistema.
+
+Versión 1.1 – 3 al 7 de junio:
+Se programó la función menú () principal con opciones numeradas.
+Se implementó la función registrar_huesped () incluyendo validaciones con expresiones regulares (re) para nombre, apellido, correo, teléfono y documento.
+Los datos validados se guardan temporalmente en una lista de diccionarios.
+
+Versión 1.2 – 9 al 14 de junio:
+Se añadieron estructuras de datos para simular una base de datos de habitaciones (habitaciones = [...]) y reservas.
+Se implementó la función reservar_habitacion () y se enlazó al menú principal.
+Se ajustaron las validaciones y errores de entrada para robustecer la usabilidad.
+
+Versión 1.3 – 14 al 18 de mayo:
+Se incorporó el check-out de los huéspedes con actualización del estado de las habitaciones.
+Se agregaron las funciones buscar huésped () y controles de errores para búsquedas.
+Se cargó la primera versión del archivo admin.txt y funciones para acceso del administrador.
+
+Versión 1.4 – 9 al 12 de julio:
+Se integraron las funciones estadísticas y de reporte con acceso restringido por contraseña (getpass).
+Se añadió generación de logs del sistema (bitácora de eventos).
+Se incluyó compatibilidad con archivos csv para guardar y recuperar reservas, huéspedes y habitaciones.
+
+Versión 1.5 – 13 al 16 de julio:
+Se desarrollaron las funciones de visualización gráfica con matplotlib.
+Se completaron los módulos de administración, menú gráfico y reportes.
+Se revisó y comentó el código para dejarlo listo para documentación y pruebas finales.
+
+Cada versión fue registrada en GitHub, utilizando ramas para pruebas y mejoras. Esto permitió mantener un orden cronológico y colaborativo durante el desarrollo del proyecto.
