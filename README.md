@@ -80,7 +80,9 @@ Listas de diccionarios para agrupar múltiples registros.
 DataFrames de pandas para leer y trabajar fácilmente con archivos `.csv`.
 Archivos de texto o CSV como almacenamiento permanente.
 
-7. Plan de proyecto: 
+7. Plan de proyecto:
+   <img width="1127" height="569" alt="image" src="https://github.com/user-attachments/assets/f346f5ba-206b-48c9-9cbc-a159779e84d1" />
+
 (Realizado en Excel)
 
 8. Plan de versionado
