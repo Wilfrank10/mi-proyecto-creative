@@ -113,7 +113,7 @@ Se integraron las funciones estadísticas y de reporte con acceso restringido po
 Se añadió generación de logs del sistema (bitácora de eventos).
 Se incluyó compatibilidad con archivos csv para guardar y recuperar reservas, huéspedes y habitaciones.
 
-Versión 1.5 – 13 al 16 de julio:
+Versión 1.5 – 13 al 15 de julio:
 Se desarrollaron las funciones de visualización gráfica con matplotlib.
 Se completaron los módulos de administración, menú gráfico y reportes.
 Se revisó y comentó el código para dejarlo listo para documentación y pruebas finales.
